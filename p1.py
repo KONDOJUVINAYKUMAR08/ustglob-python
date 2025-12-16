@@ -4,4 +4,4 @@ print("Welcome to Python")
 print("Welcome to git session")
 
 for i in range(10):
-  print(i)
+    print(i)
