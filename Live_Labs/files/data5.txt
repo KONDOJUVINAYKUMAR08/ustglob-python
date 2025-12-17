@@ -1,0 +1,3 @@
+name        m1   m2   total   grade
+Vinay       56   56   112     pass
+Vignesh     45   56   101     fail
