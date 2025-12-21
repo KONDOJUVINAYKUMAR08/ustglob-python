@@ -1,4 +1,4 @@
-f=open("files\data5.txt", 'a')
+f=open("Live_Labs\Files\data5.txt", 'a')
 f.write("name        m1   m2   total   grade")
 for i in range(2):
     name=input("Enter name: ")

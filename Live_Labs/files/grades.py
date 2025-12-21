@@ -1,4 +1,4 @@
-f=open("files\data2.txt")
+f=open("Live_Labs\Files\data2.txt")
 print("*"*20)
 print("Name Marks Grade")
 print("*"*20)
